@@ -1,0 +1,3 @@
+Write a program to print the first 10 Fibonacci numbers.
+Each Fibonacci number is the sum of the two preceding ones.
+The sequence starts out 0, 1, 1, 2, 3, 5, 8, ...
